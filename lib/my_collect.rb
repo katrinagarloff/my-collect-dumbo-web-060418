@@ -5,5 +5,5 @@ new_collection = []
   new_collection.push(yield collection[i])
   i+=1
 end
-
+new_collection
 end
